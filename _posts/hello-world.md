@@ -1,5 +1,5 @@
 ---
-title: Coffee
+title: Coffee2
 excerpt: 'The coffee of the week is currently White Mocha, because it''s tasty.'
 coverImage: /assets/blog/hello-world/cover.jpg
 date: '2020-03-16T05:35:07.322Z'
@@ -10,6 +10,7 @@ ogImage:
   url: >-
     https://globalassets.starbucks.com/assets/3eab25199e994b689fa5c047fc31f217.jpg?impolicy=1by1_wide_topcrop_630
 ---
+
 
 
 
